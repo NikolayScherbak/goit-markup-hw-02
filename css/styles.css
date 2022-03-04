@@ -34,7 +34,7 @@ a {
 /* *ОТМЕНА СТИЛЕЙ ПО УМОЛЧАНИЮ */
 
 body {
-  font-family: Roboto,Raleway, sans-serif;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
   font-style: normal;
   color: var(--title-color);
 }
@@ -152,13 +152,7 @@ body {
   letter-spacing: 0.03em;
 }
 
-.menu-container,
-.top-contacts-container {
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.142;
-  letter-spacing: 0.02em;
-}
+
 
 .home-title {
   font-family: Roboto;
@@ -216,7 +210,7 @@ body {
   letter-spacing: 0.03em;
 }
 
-.name-project-item {
+.project-item {
   font-weight: bold;
   font-size: 18px;
   line-height: 2;
