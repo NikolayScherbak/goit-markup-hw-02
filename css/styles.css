@@ -144,7 +144,7 @@ body {
 
 /* ? fonts */
 .logo {
-  font-family: Raleway;
+  font-family: Raleway, Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
@@ -155,7 +155,7 @@ body {
 
 
 .home-title {
-  font-family: Roboto;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 44px;
@@ -164,7 +164,7 @@ body {
 }
 
 .home-button {
-  font-family: Roboto;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -210,7 +210,7 @@ body {
   letter-spacing: 0.03em;
 }
 
-.project-item {
+.name-project-item {
   font-weight: bold;
   font-size: 18px;
   line-height: 2;
