@@ -88,7 +88,7 @@ body {
 /* ? maine */
 .home-button,
 .filters-button {
-  color: #FFFFFF;
+  color: var(--white-color);
   cursor: pointer;
 }
 
